@@ -8,6 +8,4 @@ body {
 .board {
   /* background-color: skyblue; */
   background-image: url("images/flappybirdbg.png");
-  position: absolute;
-  bottom: 0;
 }
