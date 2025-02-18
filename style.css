@@ -2,9 +2,12 @@ body {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
   overflow: hidden;
+  background-color: skyblue;
 }
 
 .board {
   /* background-color: skyblue; */
   background-image: url("images/flappybirdbg.png");
+  position: absolute;
+  bottom: 0;
 }
